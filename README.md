@@ -1,23 +1,29 @@
 
-# ChatApp
- After reconfiguring everything
+<h1 align="center">
+ChatApp
+</h1>
 
-# Home
-<img src="images/homePage.jpg " width=200 >
+<p alogn="center">
+<table>
+  <tr>
+    <td>Home</td>
+     <td>Register</td>
+     <td>Login</td>
+  </tr>
+  <tr>
+    <td>
+  <img src="images/homePage.jpg " width=200 >
+   </td>
+    <td><img src="images/RegisterPage.jpg" width=200 ></td>
+    <td><img src="images/LoginPage.jpg " width=200 ></td>
+  </tr>
+ </table>
 
-
-
-
-
-# Register
-<img src="images/RegisterPage.jpg " width=200 >
-
-
-
-# Login
-<img src="images/LoginPage.jpg " width=200 >
+</p>
 
 
 
 # App
 <img src="images/ChatPage.jpg " width=200 >
+
+
