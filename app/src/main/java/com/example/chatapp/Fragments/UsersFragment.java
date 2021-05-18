@@ -65,10 +65,10 @@ public class UsersFragment extends Fragment {
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull  DataSnapshot snapshot) {
-              //  mUsers.clear();
+               mUsers.clear();
                 for(DataSnapshot snap:snapshot.getChildren() )
                 {
-                    User user=snapshot.getValue(User.class);
+                    User user=snap.getValue(User.class);
                     assert user!=null;
                     assert firebaseUser!=null;
 

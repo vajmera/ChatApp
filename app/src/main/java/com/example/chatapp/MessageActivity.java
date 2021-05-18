@@ -36,7 +36,7 @@ public class MessageActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_message);
-
+/*
         Toolbar toolbar=(Toolbar)findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);//This method sets the toolbar as the app bar for the activity.
         getSupportActionBar().setTitle("");
@@ -49,7 +49,7 @@ public class MessageActivity extends AppCompatActivity {
                 finish();
             }
         });
-
+*/
         profile_image=findViewById(R.id.profile_image);
         username=findViewById(R.id.username);
 
