@@ -3,7 +3,7 @@
  After reconfiguring everything
 
 # Home
-![Screenshot_20210518-193822_ChatApp](https://user-images.githubusercontent.com/51504937/118666620-f4253a00-b810-11eb-953c-c8a72d2c1964.jpg)
+![Screenshot_20210518-193822_ChatApp](https://user-images.githubusercontent.com/51504937/118666620-f4253a00-b810-11eb-953c-c8a72d2c1964.jpg | width=100)
 
 # Login
 
