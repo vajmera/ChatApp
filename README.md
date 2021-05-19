@@ -2,8 +2,28 @@
 <h1 align="center">
 ChatApp
 </h1>
+<br/><br/>
+<br/><br/>
 
-<p alogn="center">
+<div align="center">
+<table>
+  <tr>
+    <td>Android</td>
+     <td>Firebase</td>
+    
+  </tr>
+  <tr>
+    <td><img src="images/index.png" width=200 ></td>
+    <td><img src="images/firebase.png" width=200 ></td>
+  </tr>
+ </table>
+
+</div>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+<div align="center">
 <table>
   <tr>
     <td>Home</td>
@@ -19,8 +39,11 @@ ChatApp
   </tr>
  </table>
 
-</p>
+</div>
+<br/><br/>
 
+<br/><br/>
+<br/><br/>
 
 
 # App
