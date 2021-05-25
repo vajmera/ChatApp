@@ -6,7 +6,8 @@
     <RelativeLayout
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
 
         ></RelativeLayout>
 
@@ -24,8 +25,10 @@
         android:text="hello"
         android:textColor="#fff"
         android:padding="8dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
         android:textSize="18sp"
-
+        android:id="@+id/show_message"
 
         ></TextView>
 </RelativeLayout>
