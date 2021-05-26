@@ -46,7 +46,26 @@ ChatApp
 <br/><br/>
 
 
-# App
-<img src="images/ChatPage.jpg " width=200 >
 
+<div align="center">
+<table>
+  <tr>
+    <td>Sender</td>
+     <td>Receiver</td>
+     
+  </tr>
+  <tr>
+    <td>
+  <img src="images/Sender.jpg " width=200 >
+   </td>
+    <td><img src="images/Receiver.jpg" width=200 ></td>
+   
+  </tr>
+ </table>
+
+</div>
+<br/><br/>
+
+<br/><br/>
+<br/><br/>
 
