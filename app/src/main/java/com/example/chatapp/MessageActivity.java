@@ -73,10 +73,11 @@ public class MessageActivity extends AppCompatActivity {
 */
 
         //See this on internet
-        recyclerView=findViewById(R.id.recycler_view);
+        recyclerView = findViewById(R.id.recycler_view);
         recyclerView.setHasFixedSize(true);
-        LinearLayoutManager linearLayoutManager=new LinearLayoutManager(getApplicationContext());
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getApplicationContext());
         linearLayoutManager.setStackFromEnd(true);
+        //stack wala is like first old data will come in bottom then new in bottom
         recyclerView.setLayoutManager(linearLayoutManager);
 
 
@@ -171,10 +172,14 @@ public class MessageActivity extends AppCompatActivity {
                     {
                         mchat.add(chat);
                     }
+
+
                 }
 
                 messageAdapter=new MessageAdapter(MessageActivity.this,mchat,imageurl);
                 recyclerView.setAdapter(messageAdapter);
+
+
 
             }
 
